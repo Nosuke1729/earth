@@ -1,0 +1,141 @@
+0 | major | PLANET FORMED | A hot rocky world has formed. Water remains largely in the atmosphere and interior.
+210000000 | major | STABLE OCEANS DETECTED | Cooling has allowed a persistent liquid-water ocean to gather in low terrain.
+4452000000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+7248000000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+8604000000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+11934000000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+15504000000 | significant | CONTINENTAL COLLISION | Moving continental regions have converged, reshaping exposed terrain.
+19656000000 | major | LIFE EMERGED | A self-replicating lineage has appeared in a liquid-water region, following favorable chemical conditions.
+20677800000 | major | STABLE CELLULAR ORGANIZATION EVOLVED | Lineage X-B4503C1F73A1C948 has developed stable cellular organization. Its survival depends on the surrounding ecosystem.
+22226400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 16 lineages, including 14 living branches.
+24091800000 | major | NUTRIENT RECYCLING EVOLVED | Lineage X-2E8EE66BEE8EB62C has developed nutrient recycling. Its survival depends on the surrounding ecosystem.
+24378000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 32 lineages, including 27 living branches.
+24984000000 | significant | BIODIVERSITY EXPANDED | 32 distinct living lineages occupy this world's regional ecosystems.
+25746000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 48 lineages, including 39 living branches.
+26137200000 | major | PROTECTIVE STRUCTURES EVOLVED | Lineage X-CECD220854DAE7BF has developed protective structures. Its survival depends on the surrounding ecosystem.
+26960400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 64 lineages, including 44 living branches.
+28386000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 80 lineages, including 46 living branches.
+29268000000 | significant | REGIONAL LINEAGES LOST | Region 4 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+30158400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 97 lineages, including 49 living branches.
+31156800000 | major | ACTIVE MOBILITY EVOLVED | Lineage X-461E4B77D15D5015 has developed active mobility. Its survival depends on the surrounding ecosystem.
+31466400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 113 lineages, including 48 living branches.
+32396400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 129 lineages, including 57 living branches.
+33584400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 146 lineages, including 58 living branches.
+35238000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 162 lineages, including 54 living branches.
+36582000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 178 lineages, including 56 living branches.
+38200200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 194 lineages, including 62 living branches.
+38794200000 | significant | BIODIVERSITY EXPANDED | 64 distinct living lineages occupy this world's regional ecosystems.
+39222000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 210 lineages, including 68 living branches.
+39888000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 226 lineages, including 67 living branches.
+41612400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 242 lineages, including 61 living branches.
+42802200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 258 lineages, including 66 living branches.
+43742400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 274 lineages, including 63 living branches.
+44169000000 | major | PHOTOSYNTHESIS EVOLVED | Lineage X-47389996CA663EF3 has developed photosynthesis. Its survival depends on the surrounding ecosystem.
+44788200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 290 lineages, including 66 living branches.
+45764400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 306 lineages, including 69 living branches.
+46776000000 | significant | REGIONAL LINEAGES LOST | Region 28 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+46828200000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+46832400000 | significant | REGIONAL LINEAGES LOST | Region 41 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+47528400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 323 lineages, including 62 living branches.
+48987000000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+48990000000 | significant | REGIONAL LINEAGES LOST | Region 41 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+49000200000 | significant | REGIONAL LINEAGES LOST | Region 3 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+49002000000 | significant | REGIONAL LINEAGES LOST | Region 48 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+49160400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 339 lineages, including 65 living branches.
+50636400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 355 lineages, including 64 living branches.
+52372200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 371 lineages, including 66 living branches.
+53906400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 387 lineages, including 63 living branches.
+54313800000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+54406200000 | major | CONSUMER METABOLISM EVOLVED | Lineage X-BE3A034537CFEEA3 has developed consumer metabolism. Its survival depends on the surrounding ecosystem.
+54840000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 403 lineages, including 71 living branches.
+56252400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 419 lineages, including 64 living branches.
+57204000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 435 lineages, including 69 living branches.
+57460800000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+57468000000 | significant | REGIONAL LINEAGES LOST | Region 41 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+59000400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 451 lineages, including 70 living branches.
+60272400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 467 lineages, including 72 living branches.
+60309600000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+61338000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 484 lineages, including 76 living branches.
+62433000000 | significant | CONTINENTAL COLLISION | Moving continental regions have converged, reshaping exposed terrain.
+62436000000 | significant | REGIONAL LINEAGES LOST | Region 41 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+63068400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 500 lineages, including 66 living branches.
+63687600000 | significant | CONTINENTAL COLLISION | Moving continental regions have converged, reshaping exposed terrain.
+64080000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 516 lineages, including 69 living branches.
+65150400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 532 lineages, including 70 living branches.
+65664000000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+66566400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 548 lineages, including 72 living branches.
+67604400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 564 lineages, including 78 living branches.
+67949400000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+67971600000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+68682000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 580 lineages, including 79 living branches.
+69774000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 597 lineages, including 82 living branches.
+69944400000 | significant | REGIONAL LINEAGES LOST | Region 48 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+70904400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 613 lineages, including 79 living branches.
+72760200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 629 lineages, including 81 living branches.
+73588200000 | significant | DOMINANT LINEAGE CHANGED | X-599367118E67D70F now contains over half of living biomass. Regional competitors and descendants persist.
+73972200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 645 lineages, including 75 living branches.
+74433600000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+75590400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 661 lineages, including 43 living branches.
+76277400000 | major | ATMOSPHERIC OXYGEN RISING | Biological production has overcome atmospheric sinks. Oxygen now accounts for more than one percent of the atmosphere.
+76576200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 677 lineages, including 51 living branches.
+78292200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 693 lineages, including 50 living branches.
+78422400000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+78424200000 | significant | REGIONAL LINEAGES LOST | Region 7 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+78429600000 | significant | CONTINENTAL COLLISION | Moving continental regions have converged, reshaping exposed terrain.
+78436200000 | significant | REGIONAL LINEAGES LOST | Region 6 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+80346000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 709 lineages, including 57 living branches.
+81716400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 725 lineages, including 71 living branches.
+83442000000 | significant | REGIONAL LINEAGES LOST | Region 6 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+83768400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 741 lineages, including 85 living branches.
+85426200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 757 lineages, including 96 living branches.
+86428200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 773 lineages, including 108 living branches.
+87738000000 | major | MULTICELLULARITY EVOLVED | Lineage X-D4414BF7E93E95C9 has developed multicellularity. Its survival depends on the surrounding ecosystem.
+87752400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 789 lineages, including 121 living branches.
+88394400000 | significant | BIODIVERSITY EXPANDED | 128 distinct living lineages occupy this world's regional ecosystems.
+89200800000 | significant | CONTINENTAL COLLISION | Moving continental regions have converged, reshaping exposed terrain.
+89290200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 805 lineages, including 136 living branches.
+89856600000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+90966000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 821 lineages, including 147 living branches.
+92072400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 837 lineages, including 162 living branches.
+95355600000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+96613800000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+96622200000 | significant | REGIONAL LINEAGES LOST | Region 47 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+98358600000 | significant | CONTINENTAL COLLISION | Moving continental regions have converged, reshaping exposed terrain.
+109748400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 853 lineages, including 171 living branches.
+120878400000 | significant | REGIONAL LINEAGES LOST | Region 43 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+122858400000 | significant | CONTINENTAL COLLISION | Moving continental regions have converged, reshaping exposed terrain.
+124108200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 869 lineages, including 180 living branches.
+124122000000 | significant | REGIONAL LINEAGES LOST | Region 26 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+134060400000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+136424400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 885 lineages, including 168 living branches.
+137690400000 | major | ASTEROID IMPACT | An impact disturbed the climate and ocean system. Airborne dust reduced incoming sunlight.
+137692200000 | significant | REGIONAL LINEAGES LOST | Region 48 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+137702400000 | significant | REGIONAL LINEAGES LOST | Region 26 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+138466200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 902 lineages, including 167 living branches.
+139539000000 | major | LAND ADAPTATION EVOLVED | Lineage X-59173AA3D4C5570F has developed land adaptation. Its survival depends on the surrounding ecosystem.
+139546200000 | major | TERRESTRIAL BIOSPHERE ESTABLISHED | Water-management adaptations have allowed a lineage from coastal ecosystems to persist on exposed land.
+140984400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 918 lineages, including 167 living branches.
+144235200000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+144358200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 934 lineages, including 165 living branches.
+145810200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 950 lineages, including 160 living branches.
+147840000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 966 lineages, including 163 living branches.
+149678400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 982 lineages, including 123 living branches.
+150838200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 998 lineages, including 98 living branches.
+153178800000 | major | BIOSPHERE REGRESSED | The last established lineages expressing the former level of biological complexity have declined. Simpler surviving populations retain their ancestry.
+153514200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1014 lineages, including 61 living branches.
+154962000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1030 lineages, including 55 living branches.
+155918400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1046 lineages, including 61 living branches.
+157056000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1062 lineages, including 73 living branches.
+157878000000 | significant | REGIONAL LINEAGES LOST | Region 8 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+158802000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1078 lineages, including 82 living branches.
+159791400000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+160270200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1094 lineages, including 94 living branches.
+160380000000 | significant | REGIONAL LINEAGES LOST | Region 8 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+162216000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1110 lineages, including 107 living branches.
+164046000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1126 lineages, including 120 living branches.
+165842400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1142 lineages, including 135 living branches.
+166836000000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1158 lineages, including 145 living branches.
+168910200000 | significant | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+169550400000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1174 lineages, including 154 living branches.
+170380200000 | significant | REGIONAL LINEAGES LOST | Region 41 lost more than half its formerly detectable populations as local conditions changed. Other regions may retain their relatives.
+170932200000 | significant | LINEAGES DIVERSIFIED | The tree of life now records 1190 lineages, including 168 living branches.

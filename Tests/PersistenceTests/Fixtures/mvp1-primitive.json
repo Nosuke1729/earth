@@ -1,0 +1,72 @@
+{
+  "planet" : {
+    "ageYears" : 2059200000,
+    "atmosphere" : {
+      "carbonDioxide" : 0.0031948266200766545,
+      "nitrogen" : 0.8102108700239853,
+      "oxygen" : 0,
+      "pressureBars" : 1.0234337826087034,
+      "waterVapor" : 0.008439815749437852
+    },
+    "axialTiltDegrees" : 18.53962361394911,
+    "biosphere" : {
+      "biomass" : 0.24844421114120332,
+      "originAge" : 1968000000,
+      "stableHabitableYears" : 1801200000,
+      "stage" : "primitive"
+    },
+    "climate" : {
+      "albedo" : 0.24127951727241914,
+      "averageTemperature" : 13.575036653662384,
+      "iceCoverage" : 0
+    },
+    "events" : [
+      {
+        "ageYears" : 0,
+        "detail" : "A hot rocky world has formed. Water remains largely in the atmosphere and interior.",
+        "id" : 0,
+        "kind" : "formation",
+        "title" : "PLANET FORMED"
+      },
+      {
+        "ageYears" : 216000000,
+        "detail" : "Cooling has allowed a persistent liquid-water ocean to gather in low terrain.",
+        "id" : 1,
+        "kind" : "oceans",
+        "title" : "STABLE OCEANS DETECTED"
+      },
+      {
+        "ageYears" : 1968000000,
+        "detail" : "Primitive self-replicating organisms have appeared in an ocean basin. Their origin reflects sustained liquid water and chemical stability.",
+        "id" : 2,
+        "kind" : "life",
+        "title" : "LIFE DETECTED"
+      }
+    ],
+    "geology" : {
+      "eruptionHeat" : 0,
+      "internalHeat" : 1.0914537879122102e-06,
+      "tectonicActivity" : 0.3521473647465312,
+      "terrainDrift" : 0.10815855669681217,
+      "volcanicActivity" : 0.10000087316303033
+    },
+    "gravity" : 10.301004827013328,
+    "hydrology" : {
+      "oceanCoverage" : 0.6079862077834041,
+      "stableOceanRecorded" : true,
+      "waterInventory" : 0.6079862077834042
+    },
+    "lastClimateEventAge" : 0,
+    "lastObservedAt" : 721721600,
+    "orbitalDays" : 398.1405268891879,
+    "pendingRealSeconds" : 0,
+    "radiusKm" : 6689.8778545261885,
+    "random" : {
+      "state" : 15945955823559232004
+    },
+    "rotationHours" : 19.418331853942707,
+    "seed" : 42,
+    "wasFrozen" : false
+  },
+  "schemaVersion" : 1
+}

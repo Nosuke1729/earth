@@ -1,0 +1,182 @@
+[0/1] Planning build
+Building for debugging...
+[0/9] Write sources
+[3/9] Write swift-version--1AB21518FC5DEDBE.txt
+[5/11] Compiling SimulationEngine SimulationEngine.swift
+[6/11] Emitting module SimulationEngine
+[7/13] Compiling PlanetProbe PlanetProbe.swift
+[8/13] Emitting module PlanetProbe
+[8/14] Write Objects.LinkFileList
+[9/14] Linking PlanetProbe
+[10/14] Applying PlanetProbe
+[12/14] Emitting module SimulationEngineTests
+[13/14] Compiling SimulationEngineTests EcologyTests.swift
+[13/15] Write Objects.LinkFileList
+[14/15] Linking SecondEarthPackageTests
+Build complete! (6.23s)
+◇ Test run started.
+↳ Testing Library Version: 1501
+↳ Target Platform: arm64e-apple-macos14.0
+◇ Suite EcologyTests started.
+◇ Suite SimulationTests started.
+◇ Suite GlobeInteractionTests started.
+◇ Suite SaveStoreTests started.
+◇ Suite MigrationTests started.
+◇ Suite BiosphereTests started.
+◇ Test predationAndRecyclingRemainBounded() started.
+◇ Test testCatchUpBatchBudgetDoesNotLoseElapsedTime() started.
+◇ Test relativelyWeakMatureLineagesCanTurnOverAboveAbsoluteFloor() started.
+◇ Test testFractionalSecondsArePreserved() started.
+◇ Test testOfflineEqualsContinuousIncludingEraTransition() started.
+◇ Test testHostileWorldCannotOriginateLife() started.
+◇ Test mutationIsInheritedBoundedAndNotAlwaysAnImprovement() started.
+◇ Test testLongRunsStayFiniteAndBounded() started.
+◇ Test testEightHourCatchUpIsAggregatedAndFast() started.
+◇ Test absentPopulationsCannotGrowWithoutMigration() started.
+◇ Test testCarbonRemovalConservesInertGasRatio() started.
+◇ Test testLifeProbabilityProducesDifferentHistories() started.
+◇ Test aquaticPhotosynthesisCannotColorLand() started.
+◇ Test hazardDistanceIsIndependentOfPartitionAndSaveBoundary() started.
+◇ Test testInvalidElapsedTimeIsIgnoredAndModifiersAreSmall() started.
+◇ Test testSplitMixReferenceVector() started.
+◇ Test lineageCapRetainsHistoryRatherThanDeletingIt() started.
+◇ Test predatorsReducePreyAndDefenseChangesSurvival() started.
+◇ Test antipodalAndRimMathIsContinuous() started.
+◇ Test backgroundTurnoverRemovesLowPopulationLineages() started.
+◇ Test cachedMigrationMatchesUncachedMigrationExactly() started.
+◇ Test grabbingAndRegrabbingNeverJumps() started.
+◇ Test testCarbonWarmsClimateAndIceRaisesAlbedo() started.
+◇ Test smallDragsStayPreciseAcrossDifferentGrabLocations() started.
+◇ Test testSeedReproducesInitialConditionsAndDifferentSeedsVary() started.
+◇ Test testClockCannotRewindOrDoubleCount() started.
+◇ Test environmentalCatastropheSelectsToleranceAndPreservesExtinctRecords() started.
+◇ Test firstEightHoursUsuallyContainNoBiologicalRevolutions() started.
+◇ Test testOnlyOneProcessCanOwnPlanet() started.
+◇ Test missingLegacyPrimaryStillArchivesOriginalBackup() started.
+◇ Test invalidBiologicalIndicesAreRejected() started.
+◇ Test migrationPreservesMassAndRequiresNeighborsAndSuitableHabitat() started.
+◇ Test idleStopsDuringDraggingAndHeldReleaseDoesNotSpin() started.
+◇ Test genuineMVP2SaveInfersOneLineageAndPreservesIdentity() started.
+◇ Test horizontalAndVerticalFollowThePointer() started.
+◇ Test lifelessLegacyPlanetStaysLifelessAndKeepsItsIdentity() started.
+◇ Test testRoundTripContinuesExactRandomTrajectory() started.
+◇ Test inertiaDampsThenIdleResumesGradually() started.
+◇ Test testCorruptionWithoutBackupDoesNotOverwrite() started.
+◇ Test testCorruptionRecoversBackupAndPreservesDamagedFile() started.
+◇ Test zeroOrInvalidHazardDoesNotConsumeRandomness() started.
+◇ Test legacyBackupCanStillRecoverCorruptPrimary() started.
+◇ Test testInvalidStateAndTimelineAreRejected() started.
+◇ Test branchingAndExtinctAncestrySurviveSaveAndReload() started.
+◇ Test genuineMVP1PrimitiveSaveMigratesWithoutChangingHistory() started.
+◇ Test frameRatesGiveEquivalentDampingAndZoom() started.
+◇ Test steadyTurnoverFeedsDecomposers() started.
+◇ Test invalidLineagesAndRegionalPopulationsAreRejected() started.
+◇ Test testFutureSchemaIsRejectedEvenWithValidBackup() started.
+◇ Test landInnovationNeedsCoastalPopulationsAndAtmosphere() started.
+◇ Test zoomIsBoundedAndInterpolated() started.
+◇ Test fastRimDragsKeepNormalizedUprightNorth() started.
+◇ Test selectionBenefitsAnExistingColdLineageWithoutCreatingOne() started.
+◇ Test moreEnergySupportsMorePopulation() started.
+◇ Test foragingMobilityHasBenefitsAndCosts() started.
+◇ Test regressionReflectsLossOfComplexLineagesWhileSimpleLifeSurvives() started.
+◇ Test regionalGridHasAreaAndSphericalConnectivity() started.
+◇ Test ecologicalVacancyIncreasesOpportunityAndSurvivorsRecolonize() started.
+◇ Test branchingPreservesParentAndAncestryAndConservesSeedBiomass() started.
+◇ Test ordinaryBranchingReservesCapacityForRareInnovations() started.
+◇ Test competitionReducesEachSpeciesShareOfLimitedEnergy() started.
+◇ Test aSingleNightDoesNotSkipAnExistingMicrobialBiosphereToComplexLife() started.
+◇ Test equalSeedsAndTimeProduceEqualBiologicalHistories() started.
+◇ Test returnSummaryAppearsOnlyForMeaningfulChanges() started.
+◇ Test offlineEvolutionStaysBoundedAndDoesNotFloodHistory() started.
+◇ Test photosynthesisChangesGasesGraduallyAndPreservesMixing() started.
+◇ Test healthyBiosphereDoesNotRegressFromMinorStress() started.
+◇ Test abiogenesisNeedsStabilityAndCanEventuallyOccur() started.
+◇ Test newOriginRemainsPossibleAfterLoss() started.
+◇ Test severeStressCanRegressAndThenExtinguishLife() started.
+◇ Test debugEligibilityCheckDoesNotAdvanceBiologicalTime() started.
+◇ Test offlineAndFragmentedLiveTimeMatchAcrossAdvancedBiologicalEvents() started.
+◇ Test habitabilityIsBoundedAndHardGatesCannotBeAveragedAway() started.
+◇ Test hostilePlanetDoesNotOriginateDespiteItsAge() started.
+◇ Test multicellularTransitionNeedsOxygenAndFavorableConditions() started.
+✔ Test relativelyWeakMatureLineagesCanTurnOverAboveAbsoluteFloor() passed after 0.041 seconds.
+✔ Test testFractionalSecondsArePreserved() passed after 0.041 seconds.
+✔ Test testCarbonRemovalConservesInertGasRatio() passed after 0.041 seconds.
+✔ Test aquaticPhotosynthesisCannotColorLand() passed after 0.041 seconds.
+✔ Test hazardDistanceIsIndependentOfPartitionAndSaveBoundary() passed after 0.041 seconds.
+✔ Test testSplitMixReferenceVector() passed after 0.041 seconds.
+✔ Test testInvalidElapsedTimeIsIgnoredAndModifiersAreSmall() passed after 0.041 seconds.
+✔ Test mutationIsInheritedBoundedAndNotAlwaysAnImprovement() passed after 0.041 seconds.
+✔ Test absentPopulationsCannotGrowWithoutMigration() passed after 0.041 seconds.
+✔ Test testHostileWorldCannotOriginateLife() passed after 0.041 seconds.
+✔ Test antipodalAndRimMathIsContinuous() passed after 0.041 seconds.
+✔ Test cachedMigrationMatchesUncachedMigrationExactly() passed after 0.041 seconds.
+✔ Test backgroundTurnoverRemovesLowPopulationLineages() passed after 0.041 seconds.
+✔ Test grabbingAndRegrabbingNeverJumps() passed after 0.041 seconds.
+✔ Test smallDragsStayPreciseAcrossDifferentGrabLocations() passed after 0.041 seconds.
+✔ Test testSeedReproducesInitialConditionsAndDifferentSeedsVary() passed after 0.041 seconds.
+✔ Test testCarbonWarmsClimateAndIceRaisesAlbedo() passed after 0.041 seconds.
+✔ Test lineageCapRetainsHistoryRatherThanDeletingIt() passed after 0.041 seconds.
+✔ Test testClockCannotRewindOrDoubleCount() passed after 0.044 seconds.
+✔ Test predatorsReducePreyAndDefenseChangesSurvival() passed after 0.045 seconds.
+✔ Test environmentalCatastropheSelectsToleranceAndPreservesExtinctRecords() passed after 0.046 seconds.
+✔ Test invalidBiologicalIndicesAreRejected() passed after 0.046 seconds.
+✔ Test migrationPreservesMassAndRequiresNeighborsAndSuitableHabitat() passed after 0.046 seconds.
+✔ Test testEightHourCatchUpIsAggregatedAndFast() passed after 0.047 seconds.
+✔ Test idleStopsDuringDraggingAndHeldReleaseDoesNotSpin() passed after 0.046 seconds.
+✔ Test horizontalAndVerticalFollowThePointer() passed after 0.046 seconds.
+✔ Test testOnlyOneProcessCanOwnPlanet() passed after 0.047 seconds.
+✔ Test predationAndRecyclingRemainBounded() passed after 0.047 seconds.
+✔ Test lifelessLegacyPlanetStaysLifelessAndKeepsItsIdentity() passed after 0.046 seconds.
+✔ Test inertiaDampsThenIdleResumesGradually() passed after 0.046 seconds.
+✔ Test zeroOrInvalidHazardDoesNotConsumeRandomness() passed after 0.046 seconds.
+✔ Test testOfflineEqualsContinuousIncludingEraTransition() passed after 0.047 seconds.
+✔ Test testCatchUpBatchBudgetDoesNotLoseElapsedTime() passed after 0.047 seconds.
+✔ Test testCorruptionWithoutBackupDoesNotOverwrite() passed after 0.046 seconds.
+✔ Test testInvalidStateAndTimelineAreRejected() passed after 0.046 seconds.
+✔ Test branchingAndExtinctAncestrySurviveSaveAndReload() passed after 0.046 seconds.
+✔ Test testRoundTripContinuesExactRandomTrajectory() passed after 0.047 seconds.
+✔ Test frameRatesGiveEquivalentDampingAndZoom() passed after 0.046 seconds.
+✔ Test steadyTurnoverFeedsDecomposers() passed after 0.046 seconds.
+✔ Test legacyBackupCanStillRecoverCorruptPrimary() passed after 0.046 seconds.
+✔ Test invalidLineagesAndRegionalPopulationsAreRejected() passed after 0.046 seconds.
+✔ Test zoomIsBoundedAndInterpolated() passed after 0.046 seconds.
+✔ Test landInnovationNeedsCoastalPopulationsAndAtmosphere() passed after 0.046 seconds.
+✔ Test missingLegacyPrimaryStillArchivesOriginalBackup() passed after 0.047 seconds.
+✔ Test testCorruptionRecoversBackupAndPreservesDamagedFile() passed after 0.047 seconds.
+✔ Test selectionBenefitsAnExistingColdLineageWithoutCreatingOne() passed after 0.046 seconds.
+✔ Test moreEnergySupportsMorePopulation() passed after 0.046 seconds.
+✔ Test foragingMobilityHasBenefitsAndCosts() passed after 0.046 seconds.
+✔ Test regionalGridHasAreaAndSphericalConnectivity() passed after 0.046 seconds.
+✔ Test branchingPreservesParentAndAncestryAndConservesSeedBiomass() passed after 0.046 seconds.
+✔ Test testFutureSchemaIsRejectedEvenWithValidBackup() passed after 0.047 seconds.
+✔ Test competitionReducesEachSpeciesShareOfLimitedEnergy() passed after 0.046 seconds.
+✔ Test ecologicalVacancyIncreasesOpportunityAndSurvivorsRecolonize() passed after 0.046 seconds.
+✔ Test ordinaryBranchingReservesCapacityForRareInnovations() passed after 0.046 seconds.
+✔ Test returnSummaryAppearsOnlyForMeaningfulChanges() passed after 0.046 seconds.
+✔ Test regressionReflectsLossOfComplexLineagesWhileSimpleLifeSurvives() passed after 0.047 seconds.
+✔ Test genuineMVP2SaveInfersOneLineageAndPreservesIdentity() passed after 0.047 seconds.
+✔ Test healthyBiosphereDoesNotRegressFromMinorStress() passed after 0.045 seconds.
+✔ Test photosynthesisChangesGasesGraduallyAndPreservesMixing() passed after 0.045 seconds.
+✔ Test fastRimDragsKeepNormalizedUprightNorth() passed after 0.047 seconds.
+✔ Test abiogenesisNeedsStabilityAndCanEventuallyOccur() passed after 0.045 seconds.
+✔ Test debugEligibilityCheckDoesNotAdvanceBiologicalTime() passed after 0.045 seconds.
+✔ Test severeStressCanRegressAndThenExtinguishLife() passed after 0.045 seconds.
+✔ Test habitabilityIsBoundedAndHardGatesCannotBeAveragedAway() passed after 0.045 seconds.
+✔ Test newOriginRemainsPossibleAfterLoss() passed after 0.045 seconds.
+✔ Test multicellularTransitionNeedsOxygenAndFavorableConditions() passed after 0.045 seconds.
+✔ Suite SaveStoreTests passed after 0.048 seconds.
+✔ Suite GlobeInteractionTests passed after 0.048 seconds.
+✔ Test hostilePlanetDoesNotOriginateDespiteItsAge() passed after 0.052 seconds.
+✔ Test firstEightHoursUsuallyContainNoBiologicalRevolutions() passed after 0.107 seconds.
+✔ Test genuineMVP1PrimitiveSaveMigratesWithoutChangingHistory() passed after 0.124 seconds.
+✔ Suite MigrationTests passed after 0.125 seconds.
+✔ Test aSingleNightDoesNotSkipAnExistingMicrobialBiosphereToComplexLife() passed after 0.134 seconds.
+✔ Suite EcologyTests passed after 0.135 seconds.
+✔ Test offlineAndFragmentedLiveTimeMatchAcrossAdvancedBiologicalEvents() passed after 0.319 seconds.
+✔ Test offlineEvolutionStaysBoundedAndDoesNotFloodHistory() passed after 0.345 seconds.
+✔ Test equalSeedsAndTimeProduceEqualBiologicalHistories() passed after 0.437 seconds.
+✔ Suite BiosphereTests passed after 0.439 seconds.
+✔ Test testLifeProbabilityProducesDifferentHistories() passed after 2.021 seconds.
+✔ Test testLongRunsStayFiniteAndBounded() passed after 3.871 seconds.
+✔ Suite SimulationTests passed after 3.872 seconds.
+✔ Test run with 75 tests in 6 suites passed after 3.872 seconds.

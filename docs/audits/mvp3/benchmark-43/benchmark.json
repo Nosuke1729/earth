@@ -1,0 +1,11 @@
+{
+  "encodedBytes" : 893643,
+  "living" : 168,
+  "maximumMilliseconds" : 2.095937728881836,
+  "medianMilliseconds" : 0.05793571472167969,
+  "p95Milliseconds" : 1.5469789505004883,
+  "peakResidentBytes" : 18317312,
+  "records" : 1190,
+  "regions" : 48,
+  "seed" : 43
+}

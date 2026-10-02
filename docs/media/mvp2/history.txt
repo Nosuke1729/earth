@@ -1,0 +1,7 @@
+0 years | PLANET FORMED | A hot rocky world has formed. Water remains largely in the atmosphere and interior.
+216000000 years | STABLE OCEANS DETECTED | Cooling has allowed a persistent liquid-water ocean to gather in low terrain.
+1968000000 years | LIFE EMERGED | Primitive self-replicating life has appeared in the ocean, following sustained liquid water and favorable chemical conditions.
+2678400000 years | MICROBIAL LIFE ESTABLISHED | Stable cellular populations have developed. Small biological carbon cycles now influence the oceans and atmosphere.
+2997000000 years | MAJOR VOLCANIC ERUPTION | An intense volcanic episode released carbon dioxide and warmed the atmosphere.
+4718400000 years | PHOTOSYNTHESIS EVOLVED | A new metabolic pathway captures sunlight. Carbon uptake and oxygen release will gradually alter the atmosphere.
+4821000000 years | ATMOSPHERIC OXYGEN RISING | Biological oxygen production has overcome atmospheric sinks. Oxygen now accounts for more than one percent of the atmosphere.

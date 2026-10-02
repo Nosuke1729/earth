@@ -1,0 +1,57 @@
+{
+  "planet" : {
+    "ageYears" : 0,
+    "atmosphere" : {
+      "carbonDioxide" : 0.17671606781530833,
+      "nitrogen" : 0.6543919353589228,
+      "oxygen" : 0,
+      "pressureBars" : 1.2310431162273108,
+      "waterVapor" : 0.025
+    },
+    "axialTiltDegrees" : 18.53962361394911,
+    "biosphere" : {
+      "biomass" : 0,
+      "stableHabitableYears" : 0,
+      "stage" : "none"
+    },
+    "climate" : {
+      "albedo" : 0.2,
+      "averageTemperature" : 232.04107198637772,
+      "iceCoverage" : 0
+    },
+    "events" : [
+      {
+        "ageYears" : 0,
+        "detail" : "A hot rocky world has formed. Water remains largely in the atmosphere and interior.",
+        "id" : 0,
+        "kind" : "formation",
+        "title" : "PLANET FORMED"
+      }
+    ],
+    "geology" : {
+      "eruptionHeat" : 0,
+      "internalHeat" : 1,
+      "tectonicActivity" : 0.8546205165890337,
+      "terrainDrift" : 0,
+      "volcanicActivity" : 0.9
+    },
+    "gravity" : 10.301004827013328,
+    "hydrology" : {
+      "oceanCoverage" : 0,
+      "stableOceanRecorded" : false,
+      "waterInventory" : 0.6079862077834042
+    },
+    "lastClimateEventAge" : 0,
+    "lastObservedAt" : 721692800,
+    "orbitalDays" : 398.1405268891879,
+    "pendingRealSeconds" : 0,
+    "radiusKm" : 6689.8778545261885,
+    "random" : {
+      "state" : 3326683750974675196
+    },
+    "rotationHours" : 19.418331853942707,
+    "seed" : 42,
+    "wasFrozen" : false
+  },
+  "schemaVersion" : 1
+}

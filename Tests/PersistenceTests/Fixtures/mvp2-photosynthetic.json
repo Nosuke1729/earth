@@ -1,0 +1,107 @@
+{
+  "planet" : {
+    "ageYears" : 7819200000,
+    "atmosphere" : {
+      "carbonDioxide" : 0.0014544300109024984,
+      "nitrogen" : 0.683990030259006,
+      "oxygen" : 0.15739458721287555,
+      "pressureBars" : 1.0200000340957598,
+      "waterVapor" : 0.0067607321830558875
+    },
+    "axialTiltDegrees" : 18.53962361394911,
+    "biosphere" : {
+      "biodiversity" : 0.2824722938900215,
+      "biologicalAge" : 5851200000,
+      "biomass" : 0.4293481227609147,
+      "originAge" : 1968000000,
+      "oxygenMilestoneRecorded" : true,
+      "pendingEvolutionYears" : 1200000,
+      "resilience" : 0.34148338133149886,
+      "stableHabitableYears" : 7507200000,
+      "stage" : "photosynthetic",
+      "stageAge" : 3100800000,
+      "stress" : 0.21535478944279637
+    },
+    "climate" : {
+      "albedo" : 0.24127951727241914,
+      "averageTemperature" : 7.04292857943859,
+      "iceCoverage" : 0
+    },
+    "events" : [
+      {
+        "ageYears" : 0,
+        "detail" : "A hot rocky world has formed. Water remains largely in the atmosphere and interior.",
+        "id" : 0,
+        "kind" : "formation",
+        "title" : "PLANET FORMED"
+      },
+      {
+        "ageYears" : 216000000,
+        "detail" : "Cooling has allowed a persistent liquid-water ocean to gather in low terrain.",
+        "id" : 1,
+        "kind" : "oceans",
+        "title" : "STABLE OCEANS DETECTED"
+      },
+      {
+        "ageYears" : 1968000000,
+        "detail" : "Primitive self-replicating life has appeared in the ocean, following sustained liquid water and favorable chemical conditions.",
+        "id" : 2,
+        "kind" : "life",
+        "title" : "LIFE EMERGED"
+      },
+      {
+        "ageYears" : 2678400000,
+        "detail" : "Stable cellular populations have developed. Small biological carbon cycles now influence the oceans and atmosphere.",
+        "id" : 3,
+        "kind" : "microbial",
+        "title" : "MICROBIAL LIFE ESTABLISHED"
+      },
+      {
+        "ageYears" : 2997000000,
+        "detail" : "An intense volcanic episode released carbon dioxide and warmed the atmosphere.",
+        "id" : 4,
+        "kind" : "eruption",
+        "title" : "MAJOR VOLCANIC ERUPTION"
+      },
+      {
+        "ageYears" : 4718400000,
+        "detail" : "A new metabolic pathway captures sunlight. Carbon uptake and oxygen release will gradually alter the atmosphere.",
+        "id" : 5,
+        "kind" : "photosynthesis",
+        "title" : "PHOTOSYNTHESIS EVOLVED"
+      },
+      {
+        "ageYears" : 4821000000,
+        "detail" : "Biological oxygen production has overcome atmospheric sinks. Oxygen now accounts for more than one percent of the atmosphere.",
+        "id" : 6,
+        "kind" : "oxygenation",
+        "title" : "ATMOSPHERIC OXYGEN RISING"
+      }
+    ],
+    "geology" : {
+      "eruptionHeat" : 3.2426121399568705e-261,
+      "internalHeat" : 2.2966628599579407e-23,
+      "tectonicActivity" : 0.13303153726261566,
+      "terrainDrift" : 0.22109514904744565,
+      "volcanicActivity" : 0.1
+    },
+    "gravity" : 10.301004827013328,
+    "hydrology" : {
+      "oceanCoverage" : 0.6079862077834041,
+      "stableOceanRecorded" : true,
+      "waterInventory" : 0.6079862077834042
+    },
+    "lastClimateEventAge" : 0,
+    "lastObservedAt" : 722297600,
+    "orbitalDays" : 398.1405268891879,
+    "pendingRealSeconds" : 0,
+    "radiusKm" : 6689.8778545261885,
+    "random" : {
+      "state" : 7585769742193462422
+    },
+    "rotationHours" : 19.418331853942707,
+    "seed" : 42,
+    "wasFrozen" : false
+  },
+  "schemaVersion" : 2
+}

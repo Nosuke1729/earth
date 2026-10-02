@@ -1,0 +1,44 @@
+Seed 42, day 0.3333333333333333: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.004387021064758301s
+Seed 42, day 1.0: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.005827069282531738s
+Seed 42, day 3.0: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.01703798770904541s
+Seed 42, day 7.0: microbial, 12 living / 2 extinct; 31 regions; O2 0.0; 1 biological milestones; catch-up 0.1357799768447876s
+Seed 42, day 14.0: microbial, 42 living / 43 extinct; 31 regions; O2 0.0; 1 biological milestones; catch-up 0.9206020832061768s
+Seed 42, day 21.0: microbial, 47 living / 103 extinct; 30 regions; O2 0.0; 2 biological milestones; catch-up 1.2929770946502686s
+Seed 42, day 30.0: protocellular, 54 living / 185 extinct; 30 regions; O2 0.0; 2 biological milestones; catch-up 1.712649941444397s
+Seed 42, day 60.0: microbial, 67 living / 493 extinct; 30 regions; O2 0.0; 4 biological milestones; catch-up 7.451135993003845s
+Seed 42, day 90.0: microbial, 88 living / 805 extinct; 31 regions; O2 0.0; 5 biological milestones; catch-up 9.563567042350769s
+Seed 42, day 180.0: multicellular, 116 living / 1579 extinct; 46 regions; O2 0.12668776595228312; 10 biological milestones; catch-up 30.56811499595642s
+Seed 42 tick ms: median 0.047087669372558594, p95 1.0379552841186523, max 1.0949373245239258; regions 48, records 1697, encoded bytes 1118469
+Seed 43, day 0.3333333333333333: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.004457950592041016s
+Seed 43, day 1.0: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.006045937538146973s
+Seed 43, day 3.0: protocellular, 3 living / 0 extinct; 30 regions; O2 0.0; 1 biological milestones; catch-up 0.027289986610412598s
+Seed 43, day 7.0: microbial, 23 living / 4 extinct; 31 regions; O2 0.0; 2 biological milestones; catch-up 0.26177406311035156s
+Seed 43, day 14.0: microbial, 45 living / 47 extinct; 31 regions; O2 0.0; 4 biological milestones; catch-up 1.16655695438385s
+Seed 43, day 21.0: microbial, 54 living / 116 extinct; 31 regions; O2 0.0; 5 biological milestones; catch-up 1.4665451049804688s
+Seed 43, day 30.0: microbial, 64 living / 208 extinct; 32 regions; O2 0.0; 5 biological milestones; catch-up 2.190148949623108s
+Seed 43, day 60.0: photosynthetic, 83 living / 510 extinct; 32 regions; O2 0.00017772841342088245; 7 biological milestones; catch-up 8.337141990661621s
+Seed 43, day 90.0: multicellular, 169 living / 677 extinct; 33 regions; O2 0.05044734199298269; 8 biological milestones; catch-up 11.74615204334259s
+Seed 43, day 180.0: multicellular, 168 living / 1022 extinct; 37 regions; O2 0.11537537511633446; 10 biological milestones; catch-up 54.01845395565033s
+Seed 43 tick ms: median 0.05602836608886719, p95 2.000093460083008, max 25.664925575256348; regions 48, records 1190, encoded bytes 893667
+Seed 7, day 0.3333333333333333: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.004436016082763672s
+Seed 7, day 1.0: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.005774021148681641s
+Seed 7, day 3.0: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.017254948616027832s
+Seed 7, day 7.0: microbial, 9 living / 1 extinct; 28 regions; O2 0.0; 2 biological milestones; catch-up 0.11872398853302002s
+Seed 7, day 14.0: microbial, 47 living / 16 extinct; 29 regions; O2 0.0; 3 biological milestones; catch-up 0.8884910345077515s
+Seed 7, day 21.0: microbial, 53 living / 81 extinct; 31 regions; O2 0.0; 4 biological milestones; catch-up 1.3745440244674683s
+Seed 7, day 30.0: microbial, 44 living / 189 extinct; 30 regions; O2 0.0; 4 biological milestones; catch-up 1.7738720178604126s
+Seed 7, day 60.0: microbial, 67 living / 466 extinct; 32 regions; O2 0.0; 4 biological milestones; catch-up 6.537107944488525s
+Seed 7, day 90.0: photosynthetic, 32 living / 830 extinct; 31 regions; O2 0.009780777869513547; 5 biological milestones; catch-up 7.70478093624115s
+Seed 7, day 180.0: multicellular, 168 living / 1199 extinct; 32 regions; O2 0.10428937326587695; 10 biological milestones; catch-up 48.53654098510742s
+Seed 7 tick ms: median 0.05900859832763672, p95 1.3880729675292969, max 1.9088983535766602; regions 48, records 1368, encoded bytes 995717
+Seed 99, day 0.3333333333333333: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.00460207462310791s
+Seed 99, day 1.0: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.0059049129486083984s
+Seed 99, day 3.0: none, 0 living / 0 extinct; 0 regions; O2 0.0; 0 biological milestones; catch-up 0.01720297336578369s
+Seed 99, day 7.0: microbial, 14 living / 2 extinct; 29 regions; O2 0.0; 2 biological milestones; catch-up 0.13012003898620605s
+Seed 99, day 14.0: microbial, 65 living / 12 extinct; 30 regions; O2 0.0; 2 biological milestones; catch-up 1.0474950075149536s
+Seed 99, day 21.0: microbial, 65 living / 91 extinct; 30 regions; O2 0.0; 4 biological milestones; catch-up 1.7415770292282104s
+Seed 99, day 30.0: microbial, 84 living / 189 extinct; 30 regions; O2 0.0; 6 biological milestones; catch-up 2.509995937347412s
+Seed 99, day 60.0: microbial, 105 living / 474 extinct; 30 regions; O2 0.0; 6 biological milestones; catch-up 11.934584975242615s
+Seed 99, day 90.0: photosynthetic, 167 living / 657 extinct; 34 regions; O2 0.03501214399875785; 7 biological milestones; catch-up 13.706014037132263s
+Seed 99, day 180.0: multicellular, 172 living / 1068 extinct; 37 regions; O2 0.064618059965561; 10 biological milestones; catch-up 55.514546036720276s
+Seed 99 tick ms: median 0.05805492401123047, p95 1.4280080795288086, max 2.0749568939208984; regions 48, records 1240, encoded bytes 948259
